@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Day Name</string>
+    <string name="selectDate">Select a date</string>
+</resources>
